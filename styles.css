@@ -1,0 +1,8 @@
+.keyboard {
+    background-color: rgb(0, 102, 153);
+    text-align: center;
+}
+
+#key:hover, #backspace:hover {
+    background-color:  rgb(50, 148, 197);
+}
